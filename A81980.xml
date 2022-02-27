@@ -1,0 +1,459 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The word of the Lord to all rulers, governors, and magistrates of England, to try themselves by what spirit and power they rule by. That they may come to know, whether they rule by the power of Jesus Christ ... : With a warning to them, that they hearken not unto the priests of England, by whom they have so long bin deceived, even by that lying spirit that is gone out into the mouthes of all the false prophets ... : Also it may be profitable for all men, that they may come to see the difference between the true power that every soule is to be subject unto for conscience sake towards God and that powerthat is not to be obeyed for conscience sake: but rather suffer according to the will of God. : VVith some quæries put forth concerning the groundof all true power, and government, which is from that power that every soule is to be subject to for the Lords sake, and not that which is set up in, and by the will of man. / This I have written in the word of the Lord God, as I was commanded by the Lord, on the sixteenth day of the sixth moneth, about the eighth houre of the day ... Known to men by the name of, Thomas Davenport.</title>
+            <author>Davenport, Thomas.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1675</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81980</idno>
+            <idno type="STC">Wing D373A</idno>
+            <idno type="STC">ESTC R174439</idno>
+            <idno type="EEBO-CITATION">45578310</idno>
+            <idno type="OCLC">ocm 45578310</idno>
+            <idno type="VID">172245</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81980)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172245)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2621:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The word of the Lord to all rulers, governors, and magistrates of England, to try themselves by what spirit and power they rule by. That they may come to know, whether they rule by the power of Jesus Christ ... : With a warning to them, that they hearken not unto the priests of England, by whom they have so long bin deceived, even by that lying spirit that is gone out into the mouthes of all the false prophets ... : Also it may be profitable for all men, that they may come to see the difference between the true power that every soule is to be subject unto for conscience sake towards God and that powerthat is not to be obeyed for conscience sake: but rather suffer according to the will of God. : VVith some quæries put forth concerning the groundof all true power, and government, which is from that power that every soule is to be subject to for the Lords sake, and not that which is set up in, and by the will of man. / This I have written in the word of the Lord God, as I was commanded by the Lord, on the sixteenth day of the sixth moneth, about the eighth houre of the day ... Known to men by the name of, Thomas Davenport.</title>
+                  <author>Davenport, Thomas.</author>
+               </titleStmt>
+               <extent>11 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1675?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christianity and politics --  Early works to 1800.</term>
+               <term>Church and state --  England.</term>
+               <term>Society of Friends --  Pastoral letters and charges.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:172245:1" rendition="simple:additions"/>
+            <p>The Word of the Lord to all Rulers, Governors, and Magiſtrates
+of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> to try themſelves by what Spi<g ref="char:EOLhyphen"/>rit and Power they Rule
+by.</p>
+            <p>That they may come to know, whether they Rule by the Power of
+Jeſus Chriſt, <hi>the true light that lighteneth every man that commeth
+into the World, unto whom all Power is gi<g ref="char:EOLhyphen"/>ven both in Heaven and in Earth;</hi>
+which is the higher Power <hi>which every Soule is to be ſubject unto;</hi>
+or the Power that man became ſubject unto through the Fall.</p>
+            <p>With a Warning to them, that they hearken not unto the Prieſts
+of <hi>England,</hi> by whom they have ſo long bin deceived, even by that
+lying ſpirit that is gone out into the mouthes of all the falſe Prophets,
+which have hitherto prevailed to per<g ref="char:EOLhyphen"/>ſwade them that they ſhould not
+hearken to the true Power within them, <hi>which is the true light that
+lighteneth every man that commeth into the World.</hi>
+            </p>
+            <p>Alſo it may be profitable for all men, that they may come to
+ſee the difference between the true power that every ſoule is to be
+ſubject unto for conſcience ſake towards God, and that power that is not
+to be obeyed for Conſcience ſake: but rather ſuffer according to the will
+of God.</p>
+            <p>
+               <hi>VVith ſome</hi> Quaeries <hi>put forth concerning the ground
+of all true Power, and Government, which is from that power that every ſoule
+is to be ſubject to for the Lords ſake, and not that which is ſet up in,
+and by the will of man.</hi>
+            </p>
+            <p>This have I Written in the <hi>Word of the Lord God, as I was
+commanded by the Lord, on the ſixteenth day of the ſixth Moneth, about the
+eighth houre of the day, as I was eating meat in my own houſe;</hi> ſaying,
+<hi>Riſe, and Write what I ſhall ſay unto thee concern<g ref="char:EOLhyphen"/>ing the Rulers and
+Magiſtrates of the Land;</hi> Which was done in the will and countenance of
+God: Who am a friend to all men, <hi>for the Seeds ſake.</hi> Known to men by
+the Name of,</p>
+            <closer>
+               <signed>Thomas Davenport.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:172245:2"/>
+            <pb n="3" facs="tcp:172245:2" rendition="simple:additions"/>
+            <head>The Word of the Lord, to all Rulers, Governors, and
+Ma<g ref="char:EOLhyphen"/>geſtrates of <hi>England,</hi> to try themſelves by what Spi<g ref="char:EOLhyphen"/>rit and
+Power they Rule by, &amp;c.</head>
+            <p>HEare the Word of the Lord ye Rulers and Mageſtrates of
+<hi>England,</hi> thus ſaith the Lord God, who is come near unto you in
+judgement, that ye may all be tryed; and therefore try your ſelves whether ye
+be in my power which is the higher Powers that every ſoule is to be ſubject
+unto, <hi>for there is no power but of me;</hi> and all that are in this Power,
+rule for me, and not for themſelves, nor in the will of man, but in my will,
+and for me, ſaith the Lord. And if ye be the higher Powers, then are ye
+alſo ſubject unto me even un<g ref="char:EOLhyphen"/>to my Law, which is the light in you and ſo
+your Power is of me, and every ſoule is to be ſubject unto you for my
+ſake. Now all that are not in my power, rule not for me, but for
+themſelves, becauſe they are gone out from my Spirit and Pow<g ref="char:EOLhyphen"/>er, into that
+which doth reſiſt my Power, in which the Enmity is againſt my Seed, unto
+which the damnation is to: Now unto this power, none is to be <hi>ſubject for
+Conſcience ſake;</hi> but for <hi>Conſcience ſake</hi> ſuffer
+according to my will, becauſe it is that which prevailed over man at the
+firſt, when he turned aſide, and went out from me into the power of
+darkneſſe, which I had ſeparated from me; and ſo I drove him out, to
+wit, man from my preſence, and placed my Flaming Sword to keep him out from
+my life, who was ſhut up in death, as I had ſaid unto him, out of which
+that power he had choſen, could not deliver him, nor by any other could he be
+<hi>Redeemed,</hi> but by my Sword by which he is kept out; in which ſtare
+are all Man-kind in now who are in their falne nature gone out from my Spirit,
+and ſo are gone out from my Power, which is the life, by <pb n="4" facs="tcp:172245:3"/>which the whole Creation is to be Ruled and Geverned<g ref="char:punc">▪</g> And now in
+this ſtate, though men are ſtanding in the place of Ma<g ref="char:EOLhyphen"/>geſtrates, and
+profeſſing themſelves to be ſuch as doe Rule for me; yet being gone out
+from me, are gone <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> from the
+power which is of me, and by me ſaith the Lord; and are holding up another
+power, which is of another Kingdom, that doth op<g ref="char:EOLhyphen"/>poſe it ſelf againſt my
+Kingdom and Power, unto which every ſoule is to be ſubject.</p>
+            <p>And now, all you who profeſſe your ſelves to be Chriſtian
+Mageſtrates, and to maintain my Law, conſider whether ye be ſuch, yea or
+nay; ſee whether ye have owned my Son, whom I have ſent a light into the
+world, unto whom is given all pow<g ref="char:EOLhyphen"/>er both in Heaven and in Earth, unto whom
+every Knee muſt bow, and every Tongue confeſſe; ye that ſay, ye
+maintain my Law, ſee whether you have known and owned the Law-giver; for
+there is but one Law, and one Law-giver which is Chriſt; And this Jeſus
+Chriſt is to be known within you, which is the <hi>Immanuel,</hi> God with
+us, <hi>even God manifeſted in the fleſh,</hi> as alſo ſaith the
+Scripture, the which if you <hi>reject</hi> to know and <hi>beleeve in,</hi>
+you have <hi>rejected</hi> my Law, and gone out from my power, which you
+profeſſe to Rule in, and Govern by, and to have owned with your Mouthes;
+and all who are ſound here, their profeſſions will not cover them,
+whoſe works deny me, for all they doe is in my ſight abominable, <hi>and
+unto every good work they are reprobate.</hi>
+            </p>
+            <p>And now, O you Mageſtrates, conſider whether you have Ruled
+for me, or for your ſelves, ſaith the Lord God, and ſee whether you have
+not been Crucifying to your ſelves my Son, whom I have ſent a light into
+the world, and ſo have Crucified and ſlain my power in you, by which you
+ſhould have Ruled your ſelves firſt, and ſo the Nations over whom you
+are pla<g ref="char:EOLhyphen"/>ced; for if a man rule not his own houſe, how <hi>ſhould he take
+care for the Church of God?</hi> And now, how can it be other<g ref="char:EOLhyphen"/>wiſe, but that
+you ſhould be found having your hands in <hi>per<g ref="char:EOLhyphen"/>ſecuting the righteous
+Seed, even my Sons and Daughters,</hi> ſaith the Lord, which I have choſen
+out of the world, to bear wit<g ref="char:EOLhyphen"/>neſſe to my name? For had you known, and
+owned me, you <pb n="5" facs="tcp:172245:3" rendition="simple:additions"/>would have known and owned my
+ſervants, ſons and daugh<g ref="char:EOLhyphen"/>ters alſo; but my words are fulfilled, <hi>If
+they have perſecuted me, they will alſo perſecute you; and if they had
+known me, they would have known you alſo;</hi> but they have not known you,
+<hi>becauſe they knew me not:</hi> And now you Mageſtrates, confi<g ref="char:EOLhyphen"/>der
+whether ye are of me, even in my power; Doth now my witneſſe which I have
+placed in you (that bears witneſſe to my name) teſtifie againſt you, or
+for you? See whether by it, you are not condemned in your ſelves, for I the
+Lord God who hath not left my ſelf without a witneſſe in any of the
+ſons of men; Therefore I ſay to you, doe ye now honeſtly conſider and
+hearken unto me, and in the coolneſſe of the day you will hear, and on your
+Beds, for I the Lord God am he, who ſearcheth your hearts, and ſhew unto
+you your thoughts, and the intents of your hearts: Now enter ye into my
+ſecret place, <hi>commune with your own hearts, and be ſtill,</hi> and
+ſee there what my wit<g ref="char:EOLhyphen"/>neſſe doth teſtifie unto you, for that is your
+ſtate before me, ſaith the Lord; <hi>and if your hearts condemne you, I am
+greater then your hearts: And I the Lord, who am the true and faith<g ref="char:EOLhyphen"/>full
+witneſſe, that cannot lye, am near unto you all, and will be a ſwift
+witneſſe againſt you; and alſo will come near unto you in judgement, to
+pleade with you: And this will I doe to try you, even as I have tryed them that
+have gone before you: And if you will not indure my judgements, but turn them
+to Gall and Wormwood, and kick at them with the heel, as they did; then will I
+come againſt you in my fury, as I did to them. And this I did to have healed
+them, but they would not be hea<g ref="char:EOLhyphen"/>led, therefore were they everturned<g ref="char:punc">▪</g>
+               </hi>
+For thus ſaith the Lord God, <hi>I, even I am he, that wounds, and heals, and
+kills, and makes alive.</hi> And now, if ye will not ſuffer your ſelves to
+be wounded, then ſhall you not be healed; and if not killed, ye ſhall not
+be made alive: <hi>For he that ſaveth his life, ſhall loſe it; and he
+that loſeth his life for my ſake, ſhall find it.</hi> If any can
+<hi>receive</hi> this, let him <hi>receive</hi> it.</p>
+            <p>And now O you Rulers and Magiſtrates, Is it not time for you to
+know judgement? therefore flight not the day of your viſitation; for this is
+it wherein I the Lord God am warning <pb n="6" facs="tcp:172245:4"/>you, and proving you,
+whether you will now turn unto me at my reproof; and now goe to, and ſee
+whether my witneſſe I have placed in you, will not teſtifie againſt
+you, that I would often have gathered you; but ye, (like to old
+<hi>Jeruſalem</hi>) would not be gathered; therefore if you will not be
+gathered, but continue in your rebellion againſt me, this ſhall ye have at
+my hand; <hi>Ye ſhall be ſcattered, who deſpiſe the riches of my
+goodneſſe forbearance, and long ſuffering;</hi> and my goodneſſe
+leads you not to repentance, <hi>but after the hardneſſe, and im<g ref="char:EOLhyphen"/>penitency
+of your hearts, treaſures up to your ſelves wrath, againſt the day of
+wrath, and revelation of my righteous judge<g ref="char:EOLhyphen"/>ments; for according to your deeds
+will I reward you,</hi> ſaith the Lord. But my deſire towards you is, as my
+witneſſe in all your <hi>Conſciences</hi> will teſtifie unto you, which
+hath not con<g ref="char:EOLhyphen"/>ſented to your ſins, nor takes delight in your
+<hi>deſtruction, but that you may all live, and not die.</hi> And now thus
+ſaith the Lord God, <hi>If ye will turn now unto me, and keep my judgements,
+and not depart from my Counſell; then will I heale you:</hi> which if you
+love the light, and come to the light, and bow down unto it, and beleeve in it,
+and diligently hearken to it; then will you come to know true judgement,
+wiſedom, under<g ref="char:EOLhyphen"/>ſtanding, and the fear of me, even the true power, in which
+you ſhould rule and govern the Nations; but if ye <hi>reject</hi> the light,
+then doe you <hi>reject</hi> me, and put away true judgement from you, and goe
+from my power in which you ſhould rule.</p>
+            <p>And therefore O ye Mageſtrates, be you warned from me, ſaith
+the Lord God, that ye goe not from my Counſell, for then woe be to you, if ye
+turn from my Prophet, which I have raiſed up unto you, to be your Councellor,
+ſaith the Lord; for whoſoever refuſeth to hear the voyce of that Prophet,
+that I have raiſed up, that ſoule ſhall be cut off from his people. Now
+if you heare the falſe Prophets, the Prieſts of <hi>England</hi> (they will
+make you vain, for they have <hi>rejected</hi> my Prophet, that
+<hi>Moſes</hi> my ſervant propheſied of; <hi>the true light, that
+lighteth every man that commeth into the world,</hi>) they will leade you out
+from my Prophet, and Son, out of my Councell, ſaith the Lord God: for they
+have gone out from me, and ſo have <hi>re<g ref="char:EOLhyphen"/>jected</hi> 
+               <pb n="7" facs="tcp:172245:4" rendition="simple:additions"/>my Councell, and have not ſtood in it, as the
+falſe Pro<g ref="char:EOLhyphen"/>phets that <hi>Iſaiah, Jeremy,</hi> and <hi>Ezekiel</hi>
+Propheſied againſt: Now, <hi>my ſheep heare my voyce,</hi> they know me,
+and will fol<g ref="char:EOLhyphen"/>low me; <hi>and a ſtranger they will not follow,</hi> but will
+flee from him, for they know not the voyce of ſtrangers.</p>
+            <p>And now, O ye Rulers, and Mageſtrates, try your ſelves by what
+ſpirit you are led, and be no more deceived by them who daube with untempered
+Morter, <hi>and cry peace, when there is no peace; for from the leaſt of them
+to the greateſt, they are all given to Covetouſneſſe; even both the
+Prophets and Prieſts, every one dealeth falſly, for they have healed your
+wound de<g ref="char:EOLhyphen"/>ceitfully, crying peace, when there is no peace,</hi> ſaith the
+Lord. But to whom of you ſhall I ſpeak, and give warning, that ye may hear
+and fear before me? behold your Ears are uncircumciſed, that ye cannot heare:
+for behold, the light of the Lord is unto you a reproach, ye have no delight in
+it; and ſo my power by which you ſhould rule and govern the Nations, you
+will not know, <hi>becauſe you delight not to know me,</hi> ſaith the Lord:
+Therefore be you all warned, now you have time, <hi>that ye priſe it, for my
+Spirit ſhall not alwayes ſtrive with you,</hi> as it hath not ſtriven
+with them that have gone before you, who <hi>rejected me, therefore were they
+conſumed,</hi> ſaith the Lord God.</p>
+            <p>And now, all you Mageſtrates and Rulers in <hi>England,</hi>
+what is the power ye rule by? Is it of me, ſaith the Lord? See what it
+differs from thoſe that were before you, who perſecuted the Prophets,
+Chriſt, the Apoſtles, and all the Saints, who bare their teſtimony to my
+name, and againſt the world: And was it my power by which ſuch Ruled and
+Governed, who were thus perſecuting my ſervants, Sons and Daughters, who
+could not for <hi>conſcience ſake</hi> ſubmit to their wills? And have
+not the ſame perſecutions in this my day attended them, in all parts of
+theſe three Nations, (and elſe-where) where ever I the Lord have ſent
+them to declare my Meſſage, even to beare teſtimony to my name, and
+againſt the ungodlineſſe of men, <hi>warning them every where to Repent,
+left they periſhed? For behold, I have ſent among you Prophets, and wiſe
+men, and ſome of them have you perſecuted,</hi> by Whipping, Stocking, 
+<pb n="8" facs="tcp:172245:5"/>Stoning, beating in your Synagogues and Streets; ſome have
+ſuffered the tryalls of cruell mockings, and ſome perſecuted from City to
+City, and ſome of them have ye killed. More<g ref="char:EOLhyphen"/>over <hi>I have ſent unto you
+my Son a light into the world, Saying, ſurely ye will reverence my Son: But
+they ſaid, this is the Heire, Come, let us kill him, that the Inheritance may
+be ours:</hi> and ſo they ſlew the Lord of life, whom I have ſent a light
+into the world, and have preferred and ſet up above the light, a murtherer;
+and ſo the old City <hi>Jeruſalem,</hi> is yet ſtanding, <hi>which is
+called Spiritually Sodom, and Egypt,</hi> where the Lord lyeth Crucified. And
+now ye Rulers and Mageſtrates, conſi<g ref="char:EOLhyphen"/>der this, Is it becauſe ſuch men
+are ſet up in the higheſt place of Authority among men, by reaſon of
+their greatneſſe in the world, and not for their underſtanding,
+wiſedom, and the fear of my name, are they ſet up above their Brethren? not
+in the Lord, but the things of the world; therefore to conclude, that they
+ſtand in my power, and are therefore to Rule and Govern the reſt of their
+Brethren: Nay, unleſſe they from my power in them Rule for me, the which ye
+will not doe, if <hi>ye pleade not the cauſe of the poor and needy,
+ſtrangers, Widows, and fatherleſſe; ſet open the Gates to the
+Priſoners, and let the oppreſſed goe free, taking off the heavy burthens,
+and yoak<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> that have been put upon
+the neckes of the poor: Seek the good, and not the evill: hate the evill, and
+love the good, and eſtabliſh judgement in the Gate, that the ſpoyled may
+be ſtrengthe<g ref="char:EOLhyphen"/>ned againſt the ſtrong and mighty, that judgement may run
+down as water, and righteouſneſſe as a mighty ſtream.</hi> And can
+theſe things be done, while theſe abominations ſtands un<g ref="char:EOLhyphen"/>taken down? as
+namely, Law, Prieſthood, Temple, Tythes, Worldly Honour, as bowing to men,
+and reſpecting their Per<g ref="char:EOLhyphen"/>ſons, contrary to my Law, the maintenance of which
+being impoſed upon the Conſciences of my people, ſons and daugh<g ref="char:EOLhyphen"/>ters,
+whom I have ſet free from all impoſitions of men, that are contrary to my
+pure Law in them, and my Covenant eſta<g ref="char:EOLhyphen"/>bliſhed with them, to walk before me
+in truth and righteouſ<g ref="char:EOLhyphen"/>neſſe, wherein they are to Worſhip me, <hi>even
+in ſpirit and in truth,</hi> as is made known unto them in the ſpirit of my
+Son<g ref="char:punc">▪</g> 
+               <pb n="9" facs="tcp:172245:5" rendition="simple:additions"/>whom I have given unto them for an
+everlaſting Covenant <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat cannot
+be broken: And now, unleſſe my Servants, Sons and Daughters break Covenant
+with me, cannot ſubmit to ſuch things as are by you impoſed on them.</p>
+            <p>Therefore O ye Magiſtrates, how doe you Rule for me, when you
+goe about to force my people to break Covenant with me? Was it not the
+practiſe of the <hi>Heathen,</hi> and wicked <hi>Rulers</hi> that knew not my
+name and power by which they ſhould have Ruled, to compell my Servants, Sons
+and Daughters, to have denied my Name, as <hi>Pharaoh, Nebuchadnezzar,</hi> and
+the <hi>Jewes,</hi> and others, who perſecuted me, as the Scriptures, my
+Servants, have ſpoken forth (by the moving of my ſpirit in them) have
+declared of? And come now, O ye Magiſtrates, and try your ſelves, what
+ſpirit and power ye have been led by: Now if you have been led by my
+ſpirit, then are ye my Sons; but ſee whether it have not been by a lying
+ſpirit, which is gone forth into the mouthes of all the ſalfe Prophets, and
+ſee whether they have not prevailed to perſwade you, to hearken unto them,
+whom I have determined a conſumption, and an utter deſtruction to come upon
+them, and to ſtrip them of all their coverings, that the ſhame of their
+nakedneſſe may ap<g ref="char:EOLhyphen"/>pear unto all men; yet, for all this, ſhall not your
+guilt be taken away from you, if you turn not to me, ſaith the Lord;
+becauſe you have been warned by my Servants from my mouth of their deceit,
+and have not turned from them, but ſtill you have hearkened to them, to
+continue the yoake upon the necks of my people, whom I have determined to
+deliver by my mighty hand, and an outſtretched arme, as I did deliver my
+ſervants of old, out of the hands of <hi>Pharaoh,</hi> that cruell
+op<g ref="char:EOLhyphen"/>preſſor; even ſo will I now deliver my ſervants, ſons and
+daughters; <hi>for my hand is not ſhortned that it cannot ſave,</hi>
+ſaith the Lord, <hi>neither mine Eare heavy, that it cannot heare,</hi> as
+before I have heard the cryes of my people: And now have I heard their cryes
+that are come before me, and am now comming to deliver them, that write upon my
+Name: Therefore conſider theſe things betime, leſt ye become ſuch 
+<pb n="10" facs="tcp:172245:6"/>as I the Lord have deſtroyed from before my Face for their
+diſobedience, ſaith the Lord God.</p>
+            <div type="part">
+               <head>Quaeries.</head>
+               <p>
+                  <hi>Quae. 1.</hi> WHether there be any Power, Rule, and
+Govern<g ref="char:EOLhyphen"/>ment to be ſet up and impoſed upon men, but onely that Power and
+Authority, Rule and Government, that every Soule is to be ſubject unto for
+Conſcience ſake towards God?</p>
+               <p n="2">
+                  <hi>2.</hi> Whether that Power, Authority, Rule, and
+Government, which men have invented to themſelves, to maintain their own
+outward fleſhly carnall Priviledges, and to bring the poor into ſubjection
+unto their own wills, be the power that every Soule ſhould be ſubject unto
+for Conſcience ſake?</p>
+               <p n="3">
+                  <hi>3.</hi> Whether <hi>Jeſus Chriſt</hi> be not the
+true ground of all Power, Rule, and Authority, that every Soule is to be
+ſubject unto, being that all Power both in Heaven and Earth is given un<g ref="char:EOLhyphen"/>to
+him, to Rule and Governe the Nations? And whether the Rule and Government be
+not onely upon his ſhoulders, which is the endleſſe Power, Rule,
+Authority and Government, of whoſe Dominion there is no end?</p>
+               <p n="4">
+                  <hi>4.</hi> Whether ever any in the Power and Authority of
+God, did ever perſecute the Servants of the Lord, or did uphold any that were
+their perſecutors; but ſuch as <hi>Pharaoh,</hi> who was out of the power
+and authority of God, and rejected it, who knew not the Lord, ſaying, <hi>Who
+is the Lord, that I ſhould obey him?</hi> And whether it be not the power of
+the World, which are the powers of darkneſſe, that perſecutes the
+righteous Seed? And whether ſuch as perſecute, and ſuch as tollerate
+perſecu<g ref="char:EOLhyphen"/>tion, be not all of one Seed, and be not in the enmity againſt God,
+even ſuch as are borne after the fleſh?</p>
+               <p n="5">
+                  <hi>5.</hi> Whether there be any Rulers and Magiſtrates,
+that are in the juſt power and authority to Rule and Governe, but ſuch as
+are in the power and authority of God? And whether <pb n="11" facs="tcp:172245:6" rendition="simple:additions"/>there be any in the power of God, but ſuch as are the Mini<g ref="char:EOLhyphen"/>ſter of
+God for good, even to execute wrath upon them that doth evill, and for the
+prayſe of him that doth well? And whether this be not the power onely, that
+every Soule is to be ſubject unto? And if any Rule not thus, Whether he beare
+not the Sword in vaine?</p>
+               <p n="6">
+                  <hi>6.</hi> Whether thoſe be Rulers, and Miniſters for
+God, that are out of the power of the Lord, and are ſet up by thoſe that
+are out of the power of the Lord themſelves, (and that Rules for
+themſelves, and not for the Lord) to maintaine their worldly Luſts, Riches,
+and Honour, who are made Rulers by Men, not for truths ſake, as they are men
+fearing the Lord; but for the Worlds ſake, even becauſe they are Rich and
+Great in this preſent World, and to maintain the Worlds Inte<g ref="char:EOLhyphen"/>reſts?</p>
+               <p n="7">
+                  <hi>7.</hi> Whether hath not the Lord ſhewed unto man,
+<hi>what is Good,</hi> that is, <hi>to keep Judgement, to doe Juſtice, and to
+love Mercy, and to Walke with God?</hi> And can ever this be done, (even
+Iudgement kept, Iuſtice done, Mercy, Truth, and Righteouſneſſe loved;
+but Gifts and Rewards taken, and mens perſons reſpected, and the Cauſe of
+the poor and needy not pleaded,) till Iudges, Iuſtices, and Rulers be as at
+the firſt I who are men <hi>fearing God, hating Covetouſneſſe, and
+dealing uprightly.</hi>
+               </p>
+               <p n="8">
+                  <hi>8.</hi> And whether that of God in all your
+Conſciences doth not beare witneſſe to the truth of all theſe things?
+and that generally, Rulers, Governours, and Magiſtrates, in their Rule and
+Government, are turned from truth and righteouſneſſe; and whether they
+ought not to turne out from the <hi>Power of darkeneſſe<g ref="char:punc">▪</g> into the
+Power of the living God, to Rule and Governe for the Lord God of Heaven and
+Earth; Unto whom every Knee muſt bow, and every Tongue confeſſe, and to
+whom every one muſt give an account of himſelfe of the things done in the
+Body, whether they be good or bad?</hi> And ſo in the light, all is left
+without excuſe,</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
